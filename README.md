@@ -1,8 +1,7 @@
 # Zero Render AFK
 
-[![Available on Modrinth](https://shields.io)](https://modrinth.com/mod/zerorenderafk)
-[![Available on CurseForge](https://shields.io)](https://www.curseforge.com/minecraft/mc-mods/zero-render-afk)
-
+[![Available on Modrinth](https://img.shields.io/badge/Available_on-Modrinth-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/zerorenderafk)
+[![Available on CurseForge](https://img.shields.io/badge/Available_on-CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/zero-render-afk)
 ## Download
 For the latest releases, please download the mod from our official pages:
 * 🟢 [Download via Modrinth](https://modrinth.com/mod/zerorenderafk/versions)
