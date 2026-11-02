@@ -1,5 +1,13 @@
 # Zero Render AFK
 
+[![Available on Modrinth](https://shields.io)](https://modrinth.com/mod/zerorenderafk)
+[![Available on CurseForge](https://shields.io)](https://www.curseforge.com/minecraft/mc-mods/zero-render-afk)
+
+## Download
+For the latest releases, please download the mod from our official pages:
+* 🟢 [Download via Modrinth](https://modrinth.com/mod/zerorenderafk/versions)
+* 🟠 [Download via CurseForge](https://www.curseforge.com/minecraft/mc-mods/zero-render-afk/files/all?page=1&pageSize=20&showAlphaFiles=hide)
+
 **Stay connected. Stop rendering. Reduce resource usage.**
 
 Zero Render AFK is a client-side Fabric mod designed for long AFK sessions on multiplayer servers.
